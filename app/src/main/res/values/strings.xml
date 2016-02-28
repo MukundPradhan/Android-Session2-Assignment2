@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Session2-Assignment2</string>
+    <string name="Red">RED</string>
+    <string name="Orange">ORANGE</string>
+    <string name="Yellow">YELLOW</string>
+    <string name="Green">GREEN</string>
+    <string name="Blue">Blue</string>
+    <string name="Indigo">Indigo</string>
+    <string name="Violate">Vialote</string>
+</resources>
